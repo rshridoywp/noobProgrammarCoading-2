@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    display: flex;
+}
+.contant{
+    width: 25%;
+    height: 80vh;
+    background-color: rgb(112, 109, 105);
+}
+
+.profile{
+    width: 75%;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.profileFicture{
+    width: 18vw;
+    height: 40vh  ;
+    background-color: rgb(112, 119, 122);
+    margin: 2px;
+}
